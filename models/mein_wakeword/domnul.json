@@ -4,7 +4,7 @@
   "author": "TsAuH",
   "website": "https://github.com/TsAuH/Microwakeword",
   "version": 1,
-  "model": "domnul.tflite",
+  "model": "https://raw.githubusercontent.com/TsAuH/Microwakeword/main/models/mein_wakeword/domnul.tflite",
   "micro": {
     "probability_cutoff": 125,
     "sliding_window_size": 5
