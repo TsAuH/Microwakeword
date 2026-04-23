@@ -1,0 +1,12 @@
+{
+  "type": "micro",
+  "wake_word": "domnul",
+  "author": "TsAuH",
+  "website": "https://github.com/TsAuH/Microwakeword",
+  "version": 1,
+  "model": "domnul.tflite",
+  "micro": {
+    "probability_cutoff": 125,
+    "sliding_window_size": 5
+  }
+}
