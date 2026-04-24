@@ -3,7 +3,7 @@
   "wake_word": "domnul",
   "author": "TsAuH",
   "website": "https://github.com/TsAuH/Microwakeword",
-  "model": "domnul.tflite",
+  "model": "okay_nabu.tflite",
   "trained_languages": ["en"],
   "version": 1,
   "micro": {
